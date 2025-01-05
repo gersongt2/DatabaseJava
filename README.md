@@ -1,1 +1,1 @@
-Inserindo conteudos em uma tabela usando java
+Inserindo conteudos em uma tabela no banco de dados usando java
